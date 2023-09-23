@@ -1,0 +1,20 @@
+{
+  "name": "my-static-app",
+  "version": "1.0.0",
+  "description": "my static node.js app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Testing...'",
+    "build": "echo 'Build succesful'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noobmasterz101/my-static-app.git"
+  },
+  "author": "amitkumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/noobmasterz101/my-static-app/issues"
+  },
+  "homepage": "https://github.com/noobmasterz101/my-static-app#readme"
+}
